@@ -8,7 +8,7 @@ Include any important background information needed to understand the project.
 ## Tools Used
 - Programming Language (e.g., Python, Java, C++)
 - IDE or Code Editor (e.g., VS Code, PyCharm)
-- Libraries or Frameworks (if applicable)
+- Libraries or Frameworks 
 - Git & GitHub
 
 ## Files Used
