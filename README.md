@@ -11,14 +11,7 @@ Include any important background information needed to understand the project.
 - Libraries or Frameworks 
 - Git & GitHub
 
-## Files Used
-- `main.py` – Main program file
-- `data.csv` – Data file used in the program
-- `README.md` – Project documentation
-(Replace with your actual file names and short descriptions.)
-
-## How to Run Program
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/repository-name.git
-python main.py
+## Additional Information
+**This text is bold**
+***This text is bold and italic***
+*This text is italic*
